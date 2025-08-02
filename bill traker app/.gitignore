@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and environment
+*.log
+.env
+
+# Node / Python / Temp builds
+node_modules/
+build/
+dist/
+venv/
